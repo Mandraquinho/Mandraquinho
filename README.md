@@ -24,11 +24,12 @@ Aqui você encontrará meus projetos, estudos e contribuições voltadas ao dese
             src="https://custom-icon-badges.demolab.com/github/followers/mandraquinho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <br><br>
-    <img 
-        src="https://komarev.com/ghpvc/?username=mandraquinho&color=blueviolet&style=for-the-badge" 
-        alt="Visualizações no perfil"
-    />
+    <a href="#">
+        <img 
+            src="https://komarev.com/ghpvc/?username=mandraquinho&color=blueviolet&style=for-the-badge" 
+            alt="Visualizações no perfil"
+        />
+    </a>
 </p>
 
 ---
