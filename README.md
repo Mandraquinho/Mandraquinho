@@ -6,34 +6,33 @@ Sou um profissional em formação na área de Análise e Desenvolvimento de Sist
 
 Aqui você encontrará meus projetos, estudos e contribuições voltadas ao desenvolvimento seguro, automações e segurança de sistemas.
 
-
 ---
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/mandraquinho?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Estrelas no GitHub" 
             title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mandraquinho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/mandraquinho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
         />
     </a>
     <a href="https://github.com/mandraquinho?tab=followers" target="_blank">
         <img 
             alt="Seguidores no GitHub" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mandraquinho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/mandraquinho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
         />
     </a>
     <a href="#">
         <img 
-            src="https://komarev.com/ghpvc/?username=mandraquinho&color=blueviolet&style=for-the-badge" 
             alt="Visualizações no perfil"
+            title="Visualizações no perfil"
+            src="https://komarev.com/ghpvc/?username=mandraquinho&color=blueviolet&style=for-the-badge"
         />
     </a>
 </p>
 
 ---
-
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -102,9 +101,7 @@ Aqui você encontrará meus projetos, estudos e contribuições voltadas ao dese
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
-<br/>
-<br/>
-
+<br/><br/>
 
 ---
 
